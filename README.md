@@ -9,8 +9,10 @@ To implement the kernel reduceUnrolling16 and comapare the performance of kernal
 4. Compare the results obtained from both kernels.
 
 ## PROGRAM
-Developed By : SRIRAJ G
-Register No. : 212222040161
+```
+Developed By: SRIRAJ G
+Register No.: 212222040161
+```
 
 ```cuda
 %%cu
