@@ -13,7 +13,6 @@ To implement the kernel reduceUnrolling16 and comapare the performance of kernal
 Developed By: SRIRAJ G
 Register No.: 212222040161
 ```
-
 ```cuda
 %%cu
 #include <cuda_runtime.h>
